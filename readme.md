@@ -10,15 +10,11 @@ Atividade MAPA de Programação I da Unicesumar. A aplicação é um sistema de 
 
 ## Classes
 
----
-
 - **Principal**
 - **Produto**
 - **Menu**
 
 ## Requisitos:
-
----
 
 :white_check_mark: não existem produtos com nomes iguais;
 
@@ -42,5 +38,7 @@ Atividade MAPA de Programação I da Unicesumar. A aplicação é um sistema de 
 - javabeans
 - lógica de programação
 
-##### :rocket:Github: 
+##### :rocket:Github: https://github.com/allud1t/SistemaImportadora
+
+##### :computer:Git: https://github.com/allud1t/SistemaImportadora.git
 
